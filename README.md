@@ -18,6 +18,7 @@ ONCE LOGGED IN
   -> Buy/Sell a Stock
   -> Plot Portfolio
   -> Load News (TBD)
+  
  -----------------------------------------------------------------------------------
  
  CLASS DIAGRAM
