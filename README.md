@@ -27,16 +27,23 @@ ONCE LOGGED IN
   2.2.3 Load News (TBD)
   
  -----------------------------------------------------------------------------------
+
+CLASS DIAGRAM
  
- CLASS DIAGRAM
+Class Name: Client
  
- Class Name: Client
- -> Data
+ Data
+ 
  name (string)
+ 
  member_since (string)
+ 
  member_id (int)
  
--> Methods
+Methods
+
 get_name()
+
 get_member_id()
+
 get_member_since()
