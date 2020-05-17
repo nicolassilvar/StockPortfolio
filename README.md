@@ -6,18 +6,18 @@ The program will be a Client Portofilio Software.
 Quick idea of how it will run:
 
 SCREEN LOG IN
-1. New Client
-2. Existing Client
+1.1 New Client
+1.2 Existing Client
 
 If is a new client, it will create the account and write to client database file
 If existing, request Id, and load information from file
 
 ONCE LOGGED IN
--> display portfolio information (TBD Details)
--> Actions:
-  -> Buy/Sell a Stock
-  -> Plot Portfolio
-  -> Load News (TBD)
+2.1 display portfolio information (TBD Details)
+2.2 Actions:
+  2.2.1 Buy/Sell a Stock
+  2.2.2 Plot Portfolio
+  2.2.3 Load News (TBD)
   
  -----------------------------------------------------------------------------------
  
