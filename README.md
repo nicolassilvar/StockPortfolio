@@ -1,6 +1,3 @@
-# Final521
-Final Project CS521
-
 The program will be a Client Portofilio Software.
 
 Quick idea of how it will run:
