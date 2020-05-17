@@ -5,21 +5,30 @@ class Client:
         self.last_name = last_name
         self.money = money
 
-    #ASSIGN METHODS
-    def AssignId(self):
+    #SET METHODS
+    def SetId(self):
         #Read the client dataset if exist
 
         #Assign the next available
 
-    def AssignClientSince(self):
+    def SetClientSince(self):
         #Automatically read date since creation
 
     #DATABASE METHODS
     def WriteClientToFile(self):
         #Write the Client information into the client dataset
 
+    def AddStock(self):
+        #Add a Stock to the client
+
+    def RemoveStocl(self):
+        #Remove a Stock from Client positions
+
+    def UpdatePortfolioFile(self):
+        #WritePortfolio to client file
+
     def DeleteClient(self):
-        #Delete Client from client data set
+        #Delete Client from client data set and all related files
 
     #GET METHODS
     def getName(self):
@@ -33,4 +42,7 @@ class Client:
 
     def getMoney(self):
         return money
+
+    def getPosition(self):
+        #Return all the stocks in the portfolio
 
