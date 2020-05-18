@@ -1,6 +1,6 @@
-The program will be a Client Portofilio Software.
+The idea for the Final Project is to create a Stock Portfolio Tracker. It allows to create users (stored in a flat file), keep track of their investments (buy/sell), display investment, query for real-time prices and latest news.
 
-Quick idea of how it will run:
+MENU IDEA
 
 SCREEN LOG IN
 
@@ -21,26 +21,6 @@ ONCE LOGGED IN
   
   2.2.2 Plot Portfolio
   
-  2.2.3 Load News (TBD)
+  2.2.3 Load News
   
- -----------------------------------------------------------------------------------
-
-CLASS DIAGRAM
- 
-Class Name: Client
- 
- Data
- 
- name (string)
- 
- member_since (string)
- 
- member_id (int)
- 
-Methods
-
-get_name()
-
-get_member_id()
-
-get_member_since()
+  2.2.4 Update Prices in the portfolio real-time
