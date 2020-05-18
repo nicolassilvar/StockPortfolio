@@ -1,4 +1,6 @@
-The idea for the Final Project is to create a Stock Portfolio Tracker. It allows to create users (stored in a flat file), keep track of their investments (buy/sell), display investment, query for real-time prices and latest news.
+The idea for the Final Project is to create a Stock Portfolio Tracker. It allows to create users (stored in a flat file), keep track of their investments (buy/sell), display investment, query for real-time prices and latest news. 
+
+I included a file for the Class Diagrams (with members and methods)
 
 MENU IDEA
 
